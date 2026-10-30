@@ -3,6 +3,9 @@
 </div>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/anthony-oliveira-07327a250/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="http://lattes.&#99;&#110;&#112;&#113;.br/0461010539011870">
     <img src="https://img.shields.io/badge/Lattes-004A80?style=for-the-badge&logo=curriculum&logoColor=white" alt="Lattes" />
   </a>
@@ -21,7 +24,6 @@ I am **Anthony Oliveira** (*Anthony Emanuel Fernandes Oliveira*), an undergradua
 - 🔬 **Research (2025–2026):** Offshore Wave Energy Converter (WEC) farm layout optimization utilizing Quantum-behaved Particle Swarm Optimization (QPSO) coupled with machine learning surrogates (Random Forest, MLP neural networks) and consensus optimization to prevent model extrapolation.
 - 🚀 **Industry & Product:** Partner at **Alatus Soluções Digitais** (2026, [alatus.ia.br](https://alatus.ia.br)), engineering digital solutions for clients.
 - 🥽 **Education & Virtual Reality:** Developing **MANNA**, an immersive virtual reality educational environment for Meta Quest that allows users to manipulate PC hardware components and inspect technical specifications (built with Unity 6, OpenXR, and XRI).
-- 🤝 **Community:** Latinoware (2025 and 2026 participant), exhibitor at Feira Universo UFPR (2026), and 2nd Treasurer of the Academic Center of AI & Software Engineering (CAIAES, 2026–2027).
 
 ---
 
@@ -32,7 +34,6 @@ Sou **Anthony Oliveira** (*Anthony Emanuel Fernandes Oliveira*), estudante de gr
 - 🔬 **Pesquisa (2025–2026):** Otimização do posicionamento de conversores de energia das ondas (*Wave Energy Converters* - WEC) em alto-mar via QPSO acoplado a modelos substitutos de *machine learning* (Random Forest e redes neurais MLP) e otimização por consenso para mitigar extrapolação.
 - 🚀 **Indústria e Produto:** Sócio da **Alatus Soluções Digitais** (2026, [alatus.ia.br](https://alatus.ia.br)), focado no desenvolvimento de soluções de software para clientes reais.
 - 🥽 **Educação e Realidade Virtual:** Desenvolvimento do **MANNA**, um ambiente imersivo de realidade virtual para Meta Quest voltado ao ensino de hardware e manipulação interativa de componentes de computador (Unity 6, OpenXR e XRI).
-- 🤝 **Comunidade:** Latinoware (participante em 2025 e 2026), expositor na Feira Universo UFPR (2026) e 2º tesoureiro do Centro Acadêmico de IAES (2026–2027).
 
 ---
 
@@ -41,6 +42,7 @@ Sou **Anthony Oliveira** (*Anthony Emanuel Fernandes Oliveira*), estudante de gr
 | Project / Projeto | Focus / Foco | Stack | Status / Link |
 |---|---|---|---|
 | **QPSO WEC Layout** | Offshore wave farm spatial optimization via quantum-behaved metaheuristic & consensus surrogate models | Python, NumPy, scikit-learn, pandas | [StaffeToxic/qpso-wec-layout](https://github.com/StaffeToxic/qpso-wec-layout) |
+| **normas-cvm** | Normas da CVM em Markdown versionado, com texto original e consolidado | Python, PowerShell, Markdown | [StaffeToxic/normas-cvm](https://github.com/StaffeToxic/normas-cvm) |
 | **MANNA** | Immersive VR PC hardware education & interactive component assembly for Meta Quest | Unity 6, C#, OpenXR, XRI | *In development / Em desenvolvimento (private repo)* |
 
 ---
@@ -119,6 +121,6 @@ Sou **Anthony Oliveira** (*Anthony Emanuel Fernandes Oliveira*), estudante de gr
 ---
 
 <p align="center">
-  Get in touch via <a href="http://lattes.&#99;&#110;&#112;&#113;.br/0461010539011870">Lattes</a><br>
+  Get in touch via <a href="https://www.linkedin.com/in/anthony-oliveira-07327a250/">LinkedIn</a> or <a href="http://lattes.&#99;&#110;&#112;&#113;.br/0461010539011870">Lattes</a><br>
   © 2026 Anthony Oliveira
 </p>
