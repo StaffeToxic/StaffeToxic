@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/anthony-oliveira-07327a250/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="http://lattes.&#99;&#110;&#112;&#113;.br/0461010539011870">
+  <a href="http://lattes.cnpq.br/0461010539011870">
     <img src="https://img.shields.io/badge/Lattes-004A80?style=for-the-badge&logo=curriculum&logoColor=white" alt="Lattes" />
   </a>
   <a href="https://alatus.ia.br">
@@ -121,6 +121,6 @@ Sou **Anthony Oliveira** (*Anthony Emanuel Fernandes Oliveira*), estudante de gr
 ---
 
 <p align="center">
-  Get in touch via <a href="https://www.linkedin.com/in/anthony-oliveira-07327a250/">LinkedIn</a> or <a href="http://lattes.&#99;&#110;&#112;&#113;.br/0461010539011870">Lattes</a><br>
+  Get in touch via <a href="https://www.linkedin.com/in/anthony-oliveira-07327a250/">LinkedIn</a> or <a href="http://lattes.cnpq.br/0461010539011870">Lattes</a><br>
   © 2026 Anthony Oliveira
 </p>
