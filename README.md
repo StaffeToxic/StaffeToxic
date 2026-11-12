@@ -22,6 +22,7 @@
 I am **Anthony Oliveira** (*Anthony Emanuel Fernandes Oliveira*), an undergraduate student and researcher in **Artificial Intelligence and Software Engineering (IAES)** at the Federal University of Paraná (UFPR, Campus Jandaia do Sul, Paraná, Brazil).
 
 - 🔬 **Research (2025–2026):** Offshore Wave Energy Converter (WEC) farm layout optimization utilizing Quantum-behaved Particle Swarm Optimization (QPSO) coupled with machine learning surrogates (Random Forest, MLP neural networks) and consensus optimization to prevent model extrapolation.
+- 🧾 **Open Source:** Author of **[b3-ir](https://github.com/StaffeToxic/b3-ir)**, a local-first Python library, CLI and web app that computes Brazilian income tax for B3 stocks, REITs (FIIs) and ETFs, with every tax rule traced to the versioned legal text.
 - 🚀 **Industry & Product:** Partner at **Alatus Soluções Digitais** (2026, [alatus.ia.br](https://alatus.ia.br)), engineering digital solutions for clients.
 - 🥽 **Education & Virtual Reality:** Developing **MANNA**, an immersive virtual reality educational environment for Meta Quest that allows users to manipulate PC hardware components and inspect technical specifications (built with Unity 6, OpenXR, and XRI).
 
@@ -32,6 +33,7 @@ I am **Anthony Oliveira** (*Anthony Emanuel Fernandes Oliveira*), an undergradua
 Sou **Anthony Oliveira** (*Anthony Emanuel Fernandes Oliveira*), estudante de graduação e pesquisador em **Inteligência Artificial e Engenharia de Software (IAES)** na Universidade Federal do Paraná (UFPR, Campus Jandaia do Sul, Paraná, Brasil).
 
 - 🔬 **Pesquisa (2025–2026):** Otimização do posicionamento de conversores de energia das ondas (*Wave Energy Converters* - WEC) em alto-mar via QPSO acoplado a modelos substitutos de *machine learning* (Random Forest e redes neurais MLP) e otimização por consenso para mitigar extrapolação.
+- 🧾 **Software livre:** Autor do **[b3-ir](https://github.com/StaffeToxic/b3-ir)**, biblioteca, CLI e interface web em Python que calculam o IR de ações, FIIs e ETFs da B3 localmente, com cada regra fiscal ligada ao texto da lei versionado.
 - 🚀 **Indústria e Produto:** Sócio da **Alatus Soluções Digitais** (2026, [alatus.ia.br](https://alatus.ia.br)), focado no desenvolvimento de soluções de software para clientes reais.
 - 🥽 **Educação e Realidade Virtual:** Desenvolvimento do **MANNA**, um ambiente imersivo de realidade virtual para Meta Quest voltado ao ensino de hardware e manipulação interativa de componentes de computador (Unity 6, OpenXR e XRI).
 
@@ -47,9 +49,22 @@ Sou **Anthony Oliveira** (*Anthony Emanuel Fernandes Oliveira*), estudante de gr
 
 ---
 
+## 🧾 Open Source / Software livre
+
+| Project / Projeto | Focus / Foco | Stack | Link |
+|---|---|---|---|
+| **b3-ir** | Brazilian income tax for B3 stocks, FIIs and ETFs: average cost, monthly DARF, annual return; rules traced to the law / IR da bolsa com regras ligadas à lei | Python, Decimal, pytest, mypy, GitHub Actions | [StaffeToxic/b3-ir](https://github.com/StaffeToxic/b3-ir) · [download](https://github.com/StaffeToxic/b3-ir/releases/latest) |
+
+---
+
 ## 📌 Featured Projects
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=StaffeToxic&repo=b3-ir&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=StaffeToxic&repo=b3-ir&theme=default">
+    <img alt="b3-ir pin" src="https://github-stats-extended.vercel.app/api/pin/?username=StaffeToxic&repo=b3-ir&theme=default">
+  </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=StaffeToxic&repo=qpso-wec-layout&theme=github_dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=StaffeToxic&repo=qpso-wec-layout&theme=default">
